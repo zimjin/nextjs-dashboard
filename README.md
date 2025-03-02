@@ -11,3 +11,8 @@ https://github.com/vercel/next-learn/tree/main/dashboard/starter-example
 ## 数据库
 
 即使是在本地调试，这个数据库也是用的远程的数据库，配置在 env 文件中
+
+## 测试的登录和密码
+https://nextjs.org/learn/dashboard-app/adding-authentication
+Email: user@nextmail.com
+Password: 123456
